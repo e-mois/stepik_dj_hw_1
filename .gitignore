@@ -1,1 +1,4 @@
 /venv
+/stepik_tours/stepik_tours/__pycache__
+/stepik_tours/tours/__pycache__
+.gitignore
